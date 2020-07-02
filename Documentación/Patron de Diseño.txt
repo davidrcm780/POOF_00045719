@@ -1,0 +1,5 @@
+Para este parcial se utilizó el Patron de Diseño Adapter ya que este facilita a que todas las interfaces puedan ser 
+compatibles.
+Se implementó utilizando un cliente que será el que accese al Form (Interfaz), y luego el adaptador que sería el user
+control Login que se adaptaría al usuario y contraseña ingresado, para así continuar ya sea con la interfaz de empleado,
+seguridad o administrador.
