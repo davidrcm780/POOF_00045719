@@ -1,0 +1,37 @@
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\Parcial_03_Poo.exe.config
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\Parcial_03_Poo.pdb
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial 03 Poo.csprojAssemblyReference.cache
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.Properties.Resources.resources
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial 03 Poo.csproj.GenerateResource.cache
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial 03 Poo.csproj.CoreCompileInputs.cache
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.exe
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.pdb
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.Admin.resources
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.Employee.resources
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.Form1.resources
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.Login.resources
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.Vigilant.resources
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\Npgsql.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Buffers.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Memory.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Text.Json.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Threading.Channels.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.ValueTuple.dll
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\Npgsql.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Buffers.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Memory.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Text.Json.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Threading.Channels.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\bin\Debug\System.ValueTuple.xml
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial_03_Poo.exe.config
+C:\Users\f_mar\RiderProjects\Parcial 03 Poo\obj\Debug\Parcial 03 Poo.csproj.CopyComplete
